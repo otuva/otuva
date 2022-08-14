@@ -6,10 +6,10 @@
 
 <br><hr>
 
-<p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/otuva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=otuva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otuva&layout=compact&theme=github_dark"/>
-</p>
+</a>
 
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/no_symkey_cache">
