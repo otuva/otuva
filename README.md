@@ -20,7 +20,7 @@
     <img alt="Twitter Follow" src="https://img.shields.io/badge/TryHackMe-1%25-blue?style=for-the-badge&logo=tryhackme&logoColor=red">
   </a>
   
-  <a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/fulco">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/otuva">
     <img alt="Twitter Follow" src="https://img.shields.io/badge/HackerRank-∞-blue?style=for-the-badge&logo=hackerrank">
   </a>
   
