@@ -12,19 +12,19 @@
 </p>
 
 <p>
-  <a href="https://twitter.com/no_symkey_cache">
+  <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/no_symkey_cache">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/no_symkey_cache?color=blue&label=Twitter&logo=twitter&style=for-the-badge">
   </a>
   
-  <a href="https://tryhackme.com/p/fulco">
+  <a target="_blank" rel="noopener noreferrer" href="https://tryhackme.com/p/fulco">
     <img alt="Twitter Follow" src="https://img.shields.io/badge/TryHackMe-1%25-blue?style=for-the-badge&logo=tryhackme&logoColor=red">
   </a>
   
-  <a href="https://www.hackerrank.com/fulco">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/fulco">
     <img alt="Twitter Follow" src="https://img.shields.io/badge/HackerRank-∞-blue?style=for-the-badge&logo=hackerrank">
   </a>
   
-  <a href="https://github.com/otuva">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/otuva">
     <img alt="Twitter Follow" src="https://img.shields.io/github/followers/otuva?label=Github&logo=github&style=for-the-badge">
   </a>
 </p>
