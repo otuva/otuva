@@ -17,15 +17,15 @@
   </a>
   
   <a target="_blank" rel="noopener noreferrer" href="https://tryhackme.com/p/otuva">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/TryHackMe-1%25-blue?style=for-the-badge&logo=tryhackme&logoColor=red">
+    <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-1%25-blue?style=for-the-badge&logo=tryhackme&logoColor=red">
   </a>
   
   <a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/otuva">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/HackerRank-∞-blue?style=for-the-badge&logo=hackerrank">
+    <img alt="Hackerrank" src="https://img.shields.io/badge/HackerRank-∞-blue?style=for-the-badge&logo=hackerrank">
   </a>
   
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/otuva">
-    <img alt="Twitter Follow" src="https://img.shields.io/github/followers/otuva?label=Github&logo=github&style=for-the-badge">
+    <img alt="Github Follow" src="https://img.shields.io/github/followers/otuva?label=Github&logo=github&style=for-the-badge">
   </a>
 </p>
 
