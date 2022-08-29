@@ -27,6 +27,10 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/otuva">
     <img alt="Github Follow" src="https://img.shields.io/github/followers/otuva?label=Github&logo=github&style=for-the-badge">
   </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://aur.archlinux.org/account/otuva">
+    <img alt="AUR Profile" src="https://img.shields.io/badge/AUR%20Profile-%E2%88%9E-blue?style=for-the-badge&logo=archlinux">
+  </a>
 </p>
 
 <hr><br>
