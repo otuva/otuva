@@ -4,7 +4,7 @@
 [comment]: <> (https://user-images.githubusercontent.com/67955086/189969997-3fe38310-04e1-4c8a-a629-f93ac0c3db9f.svg)
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1C63D0&center=true&vCenter=true&width=550&height=200&lines=Hi%2C+I'm+otuva.+I'm+also%3A;Always+learning;Dual-booting+TempleOS+with+Arch;Dumbass+with+extra+steps" alt="Typing SVG" /></a>
+  <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1C63D0&center=true&vCenter=true&width=550&height=200&lines=Hi%2C+I'm+otuva.+I'm+also%3A;Always+learning;Dual-booting+TempleOS+with+Arch;Dumbass+with+extra+steps" alt="Typing SVG" /></picture>
   <a href="#"/><img height="200px" src="https://user-images.githubusercontent.com/67955086/189970581-8f22d8d8-0c5e-4a7e-bd1e-830522d71c63.svg"></a>
 </p>
 
