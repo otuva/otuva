@@ -3,7 +3,7 @@
 [comment]: <> (https://user-images.githubusercontent.com/67955086/189968648-89c6eef3-b605-40f4-8244-94ff9c07766b.svg)
 [comment]: <> (https://user-images.githubusercontent.com/67955086/189969997-3fe38310-04e1-4c8a-a629-f93ac0c3db9f.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1C63D0&center=true&vCenter=true&width=750&height=200&lines=Hi%2C+I'm+otuva.+I'm+also%3A;Always+learning;Dual-booting+TempleOS+with+Arch;Dumbass+with+extra+steps)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1C63D0&center=true&vCenter=true&width=600&height=200&lines=Hi%2C+I'm+otuva.+I'm+also%3A;Always+learning;Dual-booting+TempleOS+with+Arch;Dumbass+with+extra+steps)](#)
 <img height="200px" align="right" src="https://user-images.githubusercontent.com/67955086/189970581-8f22d8d8-0c5e-4a7e-bd1e-830522d71c63.svg">
 
 <br><hr>
