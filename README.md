@@ -16,11 +16,7 @@
   <picture><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otuva&layout=compact&theme=github_dark"/></picture>
 </p>
 
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/no_symkey_cache">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/no_symkey_cache?color=blue&label=Twitter&logo=twitter&style=for-the-badge">
-  </a>
-  
+<p align="center">  
   <a target="_blank" rel="noopener noreferrer" href="https://tryhackme.com/p/otuva">
     <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-1%25-blue?style=for-the-badge&logo=tryhackme&logoColor=red">
   </a>
