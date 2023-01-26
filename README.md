@@ -14,8 +14,8 @@
 <br><hr>
 
 <p align="center">
-  <picture><img height="160em" src="https://github-readme-stats.vercel.app/api?username=otuva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></picture>
-  <picture><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otuva&layout=compact&theme=github_dark"/></picture>
+  <picture><img height="160em" src="https://readmestats.999857.xyz/api?username=otuva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></picture>
+  <picture><img height="160em" src="https://readmestats.999857.xyz/api/top-langs/?username=otuva&layout=compact&theme=github_dark"/></picture>
 </p>
 
 <p align="center">  
