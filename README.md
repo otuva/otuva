@@ -19,6 +19,10 @@
 </p>
 
 <p align="center">  
+  <a target="_blank" rel="noopener noreferrer" href="https://otuva.github.io">
+    <img alt="Github.io Page" src="https://img.shields.io/badge/otuva.github.io-LL-blue?style=for-the-badge&logo=github&logoColor=blue">
+  </a>
+
   <a target="_blank" rel="noopener noreferrer" href="https://tryhackme.com/p/otuva">
     <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-1%25-blue?style=for-the-badge&logo=tryhackme&logoColor=red">
   </a>
