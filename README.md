@@ -14,8 +14,8 @@
 <br><hr>
 
 <p align="center">
-  <picture><img height="160em" src="https://readmestats.999857.xyz/api?username=otuva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></picture>
-  <picture><img height="160em" src="https://readmestats.999857.xyz/api/top-langs/?username=otuva&layout=compact&theme=github_dark"/></picture>
+  <picture><img height="160em" src="https://readmestats.999857.xyz/api?username=otuva&show_icons=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/></picture>
+  <picture><img height="160em" src="https://readmestats.999857.xyz/api/top-langs/?username=otuva&layout=compact&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117&hide_border=true"/></picture>
 </p>
 
 <p align="center">  
