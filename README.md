@@ -1,6 +1,6 @@
 ### Hello there ( ͡° ͜ʖ ͡°)
 
-[![gpg](https://img.shields.io/badge/gpg-E04D%20E697%204DCD%204B3B-blue?style=flat)](https://github.com/otuva.gpg)
+[![gpg](https://img.shields.io/badge/gpg-4BE7%206334%205987%20F62C-blue?style=flat)](https://github.com/otuva.gpg)
 
 [comment]: <> (https://user-images.githubusercontent.com/67955086/189968648-89c6eef3-b605-40f4-8244-94ff9c07766b.svg)
 [comment]: <> (https://user-images.githubusercontent.com/67955086/189969997-3fe38310-04e1-4c8a-a629-f93ac0c3db9f.svg)
